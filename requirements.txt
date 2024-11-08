@@ -1,0 +1,5 @@
+
+### 3. Створення `requirements.txt`
+
+У файл `requirements.txt` додайте такі рядки:
+
